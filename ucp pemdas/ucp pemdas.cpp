@@ -88,4 +88,4 @@
 //	DetailAlamat alamat;
 //	int umur;
 //};
-// untuk no 6 di sebelah
+// untuk no 6 di sebelah.
